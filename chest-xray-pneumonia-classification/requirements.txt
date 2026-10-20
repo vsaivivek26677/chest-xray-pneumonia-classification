@@ -1,0 +1,11 @@
+numpy
+matplotlib
+seaborn
+Pillow
+scikit-learn
+scikit-image
+imbalanced-learn
+torch
+torchvision
+optuna
+jupyter
