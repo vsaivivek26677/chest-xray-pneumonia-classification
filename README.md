@@ -84,8 +84,6 @@ What the exploratory analysis found:
 
 ## Outputs
 
-The notebook is stored without outputs to keep it light. Every printed result, chart, Optuna log and confusion matrix from the full run is in [`docs/notebook_outputs.pdf`](docs/notebook_outputs.pdf), and the key figures are in [`docs/images/`](docs/images).
-
 <p align="center">
   <img src="docs/images/confusion_random_forest.png" width="300" alt="Random Forest confusion matrix">
   <img src="docs/images/confusion_svm.png" width="300" alt="SVM confusion matrix">
